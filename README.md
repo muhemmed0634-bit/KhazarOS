@@ -1,4 +1,4 @@
-# 🌊 KhazarOS GNU/Linux 1.0 (Khazar)
+# 🌊 KhazarOS GNU/Linux 0.0.1 (Khazar)
 
 Select your preferred language / İstediğiniz dili seçin / İstədiyiniz dili seçin:
 
